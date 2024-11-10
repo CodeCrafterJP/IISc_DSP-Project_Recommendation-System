@@ -31,7 +31,7 @@
 
 ## Justification:
   Collaborative filtering captures user preferences, while content-based filtering ensures relevant products.
-  For our use case, we will be using “Model based Collaborative Filtering”
+  For our use case, we will be using “Model based Collaborative Filtering” and “Content-Based Filtering”
   Since, we have user and its interaction like `review` and `start rating` for their purchased products. 
 
 ## Tools/Technologies:

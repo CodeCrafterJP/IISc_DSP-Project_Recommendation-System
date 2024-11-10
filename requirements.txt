@@ -1,1 +1,8 @@
-
+Libraries:
+- python
+- seaborn
+- matplotlib
+- datasets
+- pandas 
+- requests
+- onedrivedownloader
