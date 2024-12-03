@@ -35,7 +35,7 @@
   Since, we have user and its interaction like `review` and `start rating` for their purchased products. 
 
 ## Tools/Technologies:
-  Python libraries like Pandas, NumPy, Scikit-learn, or TensorFlow for recommendation algorithms.
+  Python libraries like Pandas, NumPy, Scikit-learn, scipy, ipywidgets, IPython for recommendation algorithms.
 
 
 
