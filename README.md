@@ -1,7 +1,7 @@
 # IISc_DSP-Project_Recommendation-System
 
 # Project Title 
-## Product recommendation based on user interactions on it's purchases
+## Book recommendation based on user interactions on it's purchases
 
 ## Team Members
  - Meenal Dhuria (meenaldhuria@iisc.ac.in)
@@ -33,9 +33,18 @@
   Collaborative filtering captures user preferences, while content-based filtering ensures relevant products.
   For our use case, we will be using “Model based Collaborative Filtering” and “Content-Based Filtering”
   Since, we have user and its interaction like `review` and `start rating` for their purchased products. 
+  
+## Future Work
+   **Cold-Start Problem**: Implementing methods to handle new users and items.
+   **Model Improvement**: Experiment with advanced models like collaborative filtering with matrix factorization, or deep neural networks.
+   **Scalability**: Investigating how the model can scale to larger datasets.  
 
 ## Tools/Technologies:
-  Python libraries like Pandas, NumPy, Scikit-learn, scipy, ipywidgets, IPython for recommendation algorithms.
+   Python libraries like Pandas, NumPy, Scikit-learn, scipy, ipywidgets, IPython for recommendation algorithms.
+
+## Conclusion
+  This project successfully developed a recommendation system using collaborative filtering and content-based filtering. The results suggest that combining multiple approaches improves the 
+  accuracy of recommendations. Future work will focus on handling cold-start problems and improving the scalability of the system.
 
 
 
